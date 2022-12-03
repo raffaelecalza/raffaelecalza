@@ -1,6 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <h3>Hi 👋 I'm Raffaele</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=raffaelecalza&show_icons=true&count_private=true&title_color=ff2a6d&text_color=f8f8f2&icon_color=05d9e8&bg_color=161616&border_color=05d9e8" alt="gh-stats" />
+</div>
 
 <!--
+Another color schema for gh-stats: https://github-readme-stats.vercel.app/api?username=raffaelecalza&show_icons=true&count_private=true&title_color=05d9e8&text_color=f8f8f2&icon_color=ff2a6d&bg_color=161616&border_color=ff2a6d
+
 **raffaelecalza/raffaelecalza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
